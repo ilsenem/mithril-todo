@@ -1,0 +1,24 @@
+label.checkbox, input[type=checkbox] {
+  cursor: pointer;
+}
+
+  label.checkbox.text-muted {
+    text-decoration: line-through;
+  }
+
+.filter {
+  font-size: 50%;
+}
+
+  .filter > a {
+    border-bottom: 1px dotted;
+  }
+
+  .filter > a:hover {
+    text-decoration: none;
+  }
+
+    .filter > a.active {
+      border: none;
+      color: inherit;
+    }
