@@ -1,3 +1,6 @@
 [submodule "deps/jquery.hotkeys"]
 	path = deps/jquery.hotkeys
 	url = https://github.com/jeresig/jquery.hotkeys.git
+[submodule "deps/mithril-di"]
+	path = deps/mithril-di
+	url = https://github.com/ilsenem/mithril-di
