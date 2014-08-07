@@ -223,7 +223,7 @@
                 ]);
               })
             ]),
-            (!c.isListEmpty() && filtered.length === 0) ? m('p.text-muted', 'Chose another filter…') : null
+            (!c.isListEmpty() && filtered.length === 0) ? m('p.text-muted', 'Choose another filter…') : null
           ])
         ])
       ]);
